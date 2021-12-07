@@ -3,7 +3,7 @@
 Minimal Chat app made with React using Stream chat api.
 
 
-#Initial Set Up
+# Initial Set Up
 Getting Started with Create React App
 This project was bootstrapped with Create React App.
 
